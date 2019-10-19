@@ -1,0 +1,19 @@
+*{
+    outline: 0px solid red;
+}
+.form_control_fields{
+    width: 80%;
+}
+
+.nav_background.navbar-inverse .navbar-brand,.nav_background.navbar-inverse .navbar-nav .open .dropdown-menu>li>a,.nav_background.navbar-inverse .navbar-nav>li>a{
+    color: #fff;
+
+}
+.nav_background.navbar-inverse .navbar-nav>.open>a, .nav_background.navbar-inverse .navbar-nav>.open>a:focus, .nav_background.navbar-inverse .navbar-nav>.open>a:hover,.nav_background{
+    background: #337ab7;
+
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover,.dropdown-menu,.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+    background: #337ab7;
+
+}
